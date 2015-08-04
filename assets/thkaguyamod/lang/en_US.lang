@@ -1,0 +1,336 @@
+thKaguya.color.0=Red
+thKaguya.color.1=Blue
+thKaguya.color.2=Green
+thKaguya.color.3=Yellow
+thKaguya.color.4=Purple
+thKaguya.color.5=Aqua
+thKaguya.color.6=Orange
+thKaguya.color.7=White
+thKaguya.color.8=Random
+thKaguya.color.9=Rainbow
+thKaguya.color.10=Hot Color
+thKaguya.color.11=Cold Color
+
+thKaguya.front=Front 
+thKaguya.back=Back 
+thKaguya.right=Right 
+thKaguya.left=Left 
+thKaguya.up=Up 
+thKaguya.down=Down 
+
+thKaguya.item.kishitu=Temperament
+thKaguya.item.kaigo=Damage to 75% of Maximum HP
+
+entity.Hanabeeper.name=Hanabeeper
+
+entity.THFairy.name=Fairy
+entity.SunflowerFairy.name=Fairy
+entity.THPhantom.name=Phantom
+entity.Familiar.name=Familiar
+
+entity.Mima.name=Mima
+entity.Chiyuri.name=Chiyuri
+entity.Yumemi.name=Yumemi
+entity.Elliy.name=Elliy
+entity.Mugetu.name=Mugetu
+entity.Gengetu.name=Gengetu
+entity.Yumeko.name=Yumeko
+entity.Shinki.name=Shinki
+entity.Reimu.name=Reimu
+entity.Marisa.name=Marisa
+entity.Rumia.name=Rumia
+entity.Daiyousei.name=Big Fairy
+entity.Cirno.name=Cirno
+entity.Meirin.name=Meirin
+entity.Koakuma.name=Little Devil
+entity.Patchouli.name=Patchouli
+entity.Sakuya.name=Sakuya
+entity.Remilia.name=Remilia
+entity.Flandre.name=Frandle
+entity.Letty.name=Letty
+entity.Chen.name=Chen
+entity.Alice.name=Alice
+entity.Lily.name=Lily White
+entity.Lunasa.name=Lunasa
+entity.Merlin.name=Merlin
+entity.Lyrica.name=Lyrica
+entity.Youmu.name=Youmu
+entity.Yuyuko.name=Yuyuko
+entity.Ran.name=Ran
+entity.Yukari.name=Yukari
+entity.Suika.name=Suika
+entity.Wriggle.name=Wriggle
+entity.Mystia.name=Mystia
+entity.Keine.name=Keine
+entity.Tewi.name=Tei
+entity.Udonge.name=Reisen
+entity.Eirin.name=Eirin
+entity.Kaguya.name=Kaguya
+entity.Mokou.name=Mokou
+entity.Aya.name=Aya
+entity.Medicine.name=Medicine
+entity.Yuuka.name=Yuuka
+entity.Komachi.name=Komachi
+entity.Shikieiki.name=Eiki Shiki, Yamaxanadu
+entity.Shizuha.name=Shizuha
+entity.Minoriko.name=Minoriko
+entity.Hina.name=Hina
+entity.Nitori.name=Nitori
+entity.Momizi.name=Momizi
+entity.Sanae.name=Sanae
+entity.Kanako.name=Kanako
+entity.Suwako.name=Suwako
+entity.Iku.name=Iku
+entity.Tenshi.name=Tenshi
+entity.Kisume.name=Kisume
+entity.Yamame.name=Yamame
+entity.Parsee.name=Parsee
+entity.Yuugi.name=Yuugi
+entity.Satori.name=Satori
+entity.Orin.name=Orin
+entity.Okuu.name=Okuu
+entity.Koishi.name=Koishi
+entity.Nazrin.name=Nazrin
+entity.Kogasa.name=Kogasa
+entity.Ichirin.name=Ichirin
+entity.Unzan.name=Unzan
+entity.Murasa.name=Captain Murasa
+entity.Syou.name=Syou
+entity.Byakuren.name=Byakuren
+entity.Nue.name=Nue
+entity.Hatate.name=Hatate
+entity.Kyouko.name=Kyouko
+entity.Yoshika.name=Yoshika
+entity.Seiga.name=Seiga
+entity.Toziko.name=Toziko
+entity.Futo.name=Futo
+entity.Miko.name=Miko
+entity.Mamizou.name=Mamizou
+entity.Kokoro.name=Kokoro
+entity.Wakasagihime.name=Wakasagihime
+entity.Sekibanki.name=Sekibanki
+entity.Kagerou.name=Kagerou
+entity.Benben.name=Benben
+entity.Yatuhashi.name=Yatuhashi
+entity.Seija.name=Seija
+entity.Shinmyoumaru.name=Shinmyoumaru
+entity.Raiko.name=Raiko
+entity.Rinnosuke.name=Rinnosuke
+entity.Tokiko.name=Tokiko
+entity.SunnyMilk.name=Sunny Milk
+entity.LunarChild.name=Lunar Child
+entity.StarSaphire.name=Star Saphire
+entity.Akyuu.name=Akyuu
+entity.Toyohime.name=Toyohime
+entity.Yorihime.name=Yorihime
+entity.Reisen.name=Reisen
+entity.Kasen.name=Kasen
+entity.Kosuzu.name=Kosuzu
+entity.Renko.name=Renko
+entity.Merry.name=Merry
+
+item.houraiJewelBranch.name=Jeweled Branch of Hourai
+item.buddhaStoneBowl.name=Buddha's Stone Bowl
+item.dragonNeckJewel.name=Jewel from the Dragon's Neck
+item.fireRatRobe.name=Robe of the Fire Rat
+item.swallowCowrieShell.name=Swallow's Cowrie Shell
+item.houraiPearl.name=Color Pearl
+item.kinkaku-ji.name=Seamless Ceiling of Kinkaku-ji
+item.ajaRedStone.name=Red Stone of Aja
+
+item.hakureiMikoStick.name=Hakurei Shrine Maiden Stick
+item.homingAmulet.name=Homing Amulet
+item.yinYangOrb.name=Yin-Yang Orb
+item.bloodthirstyYinYangOrb.name=Bloodthirsty Yin-Yang Orb
+item.magicBroom.name=Magic Broom
+item.miniHakkero.name=Mini Hakkero
+item.marisaHat.name=Marisa's Hat
+
+item.icicleSword.name=Icicle Sword
+item.silverKnife.name=Silver Knife
+item.sakuyaWatch.name=Sakuya's Pocket Watch
+item.sakuyaStopwatch.name=Stopwatch
+item.spearTheGungnir.name=Spear the Gungnir
+item.laevateinn.name=Laevateinn
+
+item.cursedDecoyDoll.name=Cursed Decoy Doll 
+item.hakurouken.name=Hakurouken
+item.roukanken.name=Roukanken
+item.yuyukoFan.name=Yuyuko's Fan
+item.soulTorch.name=Soul Torch
+item.gap.name=Gap
+item.gapFoldingUmbrella.name=Gap Folding Umbrella
+
+item.ibukiGourd.name=Ibuki Gourd
+
+item.yuukaParasol.name=Yuuka's Parasol
+item.deathScythe.name=Scythe of Death
+item.remorseRod.name=Rod of Remorse
+
+item.kappaCap.name=Kappa Cap
+item.kappaWaterPistol.name=Kappa's Water Pistol
+item.tenguFan.name=Tengu's Fan
+item.windMikoStick.name=Wind Shrine Maiden Stick
+item.byoukiheiyuMamori.name=Illness Recovery Charm
+item.onbashira.name=Onbashira
+item.suwakoHat.name=Suwako's Hat
+
+item.heavenlyPeach.name=Heavenly Peach
+item.scarletPerceptionSword.name=Sword of Scarlet Perception
+
+item.thirdEye.name=3rd Eye
+item.nuclearControlRod.name=Nuclear Control Rod
+item.closedThirdEye.name=Closed 3rd Eye
+
+item.nazrinPendulum.name=Nazrin Pendulum
+item.shipGhostDipperEmpty.name=Ship Ghost's Dipper
+item.shipGhostDipper.name=Ship Ghost's Dipper
+item.jeweledPagoda.name=Bishamonten's Jeweled Pagoda
+item.sorcererSutraScroll.name=Sorcerer's Sutra Scroll
+
+item.wallPassingChisel.name=Wall-Passing Chisel
+item.toyosatomimiSword.name=Sacred Sword of Toyosatomimi
+
+item.miracleMallet.name=Miracle Mallet
+
+item.thSpellCard.name=Spell Card
+item.thPointItem.name=Point Item
+item.thPowerItem.name=Power Up Item
+item.thBombItem.name=Spell Card Item
+item.thExtendItem.name=Extend Item
+item.spiritualStrikeTalisman.name=Spiritual Strike Talisman
+item.shotMaterial.name=Shot Material
+item.thShot.name=Shot
+item.thLaser.name=Laser
+
+item.houraiPearl.red.name=Red Pearl
+item.houraiPearl.blue.name=Blue Pearl
+item.houraiPearl.green.name=Green Pearl
+item.houraiPearl.yellow.name=Yellow Pearl
+item.houraiPearl.purple.name=Purple Pearl
+item.houraiPearl.aqua.name=Aqua Pearl
+item.houraiPearl.orange.name=Orange Pearl
+item.houraiPearl.white.name=White Pearl
+
+item.homingAmulet.homing.name=Homing Amulet
+item.homingAmulet.diffusion.name=Diffusion Amulet
+
+item.silverKnife.blue.name=Silver Knife
+item.silverKnife.red.name=Silver Knife
+item.silverKnife.green.name=Silver Knife
+item.silverKnife.white.name=Time Paradox Knife
+
+item.thPowerItem.small.name=Small Power Up Item
+item.thPowerItem.big.name=Big Power Up Item
+
+item.thShot.smallShot.name=Small Shot
+item.thShot.tinyShot.name=Tiny Shot
+item.thShot.mediumShot.name=Medium Shot
+item.thShot.bigShot.name=Big Shot
+item.thShot.starShot.name=Star Shot
+item.thShot.smallStarShot.name=Small Star Shot
+item.thShot.circleShot.name=Circle Shot
+item.thShot.scaleShot.name=Scale Shot
+item.thShot.butterflyShot.name=Butterfly Shot
+item.thShot.lightShot.name=Light Shot
+item.thShot.knifeShot.name=Knife Shot
+item.thShot.heartShot.name=Heart Shot
+item.thShot.kunaiShot.name=Kunai Shot
+item.thShot.talismanShot.name=Talisman Shot
+item.thShot.bigLightShot.name=Big Light Shot
+item.thShot.riceShot.name=Rice Shot
+item.thShot.ovalShot.name=Oval Shot
+item.thShot.crystalShot.name=Crystal Shot
+item.thShot.arrowShot.name=Arrow Shot
+
+item.thLaser.middle.name=Laser
+item.thLaser.short.name=Short Laser
+item.thLaser.long.name=Long Laser
+
+item.thSpellCard.0.name=Spirit Sign "Fantasy Seal"
+item.thSpellCard.1.name=Love Sign "Master Spark"
+item.thSpellCard.2.name=Deadly Butterfly "Everlasting Nap"
+item.thSpellCard.3.name=Star Sign "Meteonic Shower"
+item.thSpellCard.4.name=Boundary Sign "Boundary between Wave and Particle"
+item.thSpellCard.5.name=Sinister Spirits "Double Black Death Butterfly"
+item.thSpellCard.6.name=Scarlet Sign "Scarlet Shoot"
+item.thSpellCard.7.name="Sky of Scarlet Perception of All Humankind"
+item.thSpellCard.8.name=Maid Secret Skill "Killing Doll"
+item.thSpellCard.9.name=Freeze Sign "Perfect Freeze"
+item.thSpellCard.10.name=Fantasy Nest "Flying-glowworm Nest"
+item.thSpellCard.11.name=Water Sign "Kappa's Pororoca"
+item.thSpellCard.12.name=Magic Sign "Stardust Reverie"
+item.thSpellCard.13.name=Native God "Kero-chan Braves the Wind and Rain"
+item.thSpellCard.14.name=Miracle "Miracle Fruit"
+item.thSpellCard.15.name=Miracle "Miracle of Fafrotskies"
+item.thSpellCard.16.name=Youkai Extermination "Bewitching Power Spoiler"
+item.thSpellCard.17.name=Sea Opening "Moses's Miracle"
+item.thSpellCard.18.name=Great Miracle "Yasaka's Divine Wind"
+item.thSpellCard.19.name=Ice Sign "Icicle Fall"
+item.thSpellCard.20.name=Forbidden Barrage "Starbow Break"
+item.thSpellCard.21.name=Forbidden Barrage "Catadioptric"
+item.thSpellCard.22.name=Scourge Sign "Mishaguji-sama"
+item.thSpellCard.23.name="Red Magic"
+item.thSpellCard.24.name=Conjuring "Eternal Meek"
+item.thSpellCard.25.name=Love Sign "Non-Directional Laser"
+item.thSpellCard.26.name=Fantasy "The Beauty of Nature"
+item.thSpellCard.27.name=Divine Spear "Spear the Gungnir"
+item.thSpellCard.28.name=Moon Sign "Moonlight Ray"
+item.thSpellCard.29.name=Flower Sign "Gorgeous Sweet Flower"
+item.thSpellCard.30.name=Colorful Sign "Colorful Light Chaotic Dance"
+item.thSpellCard.33.name=Hourai "South Wind, Clear Sky -Fujiyama Volcano-"
+item.thSpellCard.34.name=Wriggle Sign "Little Bug Storm"
+item.thSpellCard.35.name=Firefly Sign "Meteor on Earth"
+item.thSpellCard.40.name=Thunder Arrow "Gagouji's Cyclone"
+item.thSpellCard.41.name=Divine Treasure "Brilliant Dragon Barrette" 
+item.thSpellCard.42.name=Divine Treasure "Buddhist Diamond" 
+item.thSpellCard.43.name=Divine Treasure "Salamander Shield" 
+item.thSpellCard.44.name=Divine Treasure "Life Spring Infinity" 
+item.thSpellCard.45.name=Divine Treasure "Jeweled Branch of Hourai -Dreamlike Paradise-" 
+
+
+tile.danmakuCraftingTable.shot.name=Danmaku Crafting Table
+tile.danmakuCraftingTable.laser.name=Laser Crafting Table
+tile.divineSpirit.name=Divine Spirit
+
+tile.divineSpirit.red.name=Divine Spirit
+tile.divineSpirit.blue.name=Divine Spirit
+tile.divineSpirit.green.name=Divine Spirit
+tile.divineSpirit.yellow.name=Divine Spirit
+tile.divineSpirit.purple.name=Divine Spirit
+tile.divineSpirit.aqua.name=Divine Spirit
+tile.divineSpirit.orange.name=Divine Spirit
+tile.divineSpirit.white.name=Divine Spirit
+
+thKaguya.msg.sneSc1=Need 
+thKaguya.msg.sneSc2= Levels & Drawing 
+thKaguya.msg.sneSc3= Stars
+thKaguya.msg.sneSc4=MiraclePower : 
+
+thKaguya.msg.pendulum1=Pendulum started searching for 
+thKaguya.msg.pendulum2=!
+thKaguya.msg.pendulum3= by High sensitivity mode!
+
+
+
+danmakuCrafting.name=Danmaku Crafting Table
+danmakuCrafting.material=Material
+danmakuCrafting.number=Number
+danmakuCrafting.speed=Speed
+danmakuCrafting.damage=Damage
+danmakuCrafting.color=Color
+danmakuCrafting.gravity=Gravity
+danmakuCrafting.bound=Bound
+danmakuCrafting.form=Form
+danmakuCrafting.copy=Copy
+
+laserCrafting.name=Laser Crafting Table
+
+
+thKaguya.danmakuForm.0=Point
+thKaguya.danmakuForm.1=Random
+thKaguya.danmakuForm.2=Sector
+thKaguya.danmakuForm.3=Around
+thKaguya.danmakuForm.4=Sphere
+thKaguya.danmakuForm.5=Ring
+thKaguya.danmakuForm.6=null
